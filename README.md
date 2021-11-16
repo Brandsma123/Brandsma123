@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Brandsma Siringoringo
+#### Software Engineer
+![Software Engineer](https://media.istockphoto.com/photos/computer-coding-software-picture-id1217011961)
 
-<!--
-**Brandsma123/Brandsma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Java with Spring Boot, JavaScript with Angular and Kotlin. In 2021, I am grauated from Del Institute of Technology in 2020 with major Industrial Engineering. I really enjoy learning languages and frameworks like Java, JavaScript and Kotlin.
 
-Here are some ideas to get you started:
+Skills: Java / Java Script / Kotlin / HTML / Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Brandsma123)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/brandsma-siringoringo-24b5201a1//)  
+
